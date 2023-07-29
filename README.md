@@ -1,0 +1,2 @@
+# DiwaGIT
+Practice purposes
